@@ -1,10 +1,10 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portifolio</title>
+    <tittle>My Portifolio</tittle>
+    
     <style>
         body {
             font-family: Georgia, 'Times New Roman', Times, serif;
@@ -79,6 +79,7 @@
             padding: 1rem;
         }
     </style>
+    
 </head>
 
 <body>
@@ -93,8 +94,7 @@
             </ul>
         </div>
     </nav>
-
-    <!--HERO/IMAGE* BIO SECTION-->
+<!--HERO/IMAGE* BIO SECTION-->
     <section id="about">
         <div>
             <img
@@ -111,7 +111,6 @@
             </p>
         </div>
     </section>
-
     <!--SKILLS SECTION-->
     <section id="skills">
         <div>
@@ -145,8 +144,7 @@
             </div>
         </div>
     </section>
-    
-    <!--CONTACT SECTION-->
+  <!--CONTACT SECTION-->
     <section id="contact">
         <h2>Contact Me</h2>
         <form>
@@ -182,8 +180,7 @@
             </button>
         </form>
     </section>  
-
-    <!--FOOTER-->
+<!--FOOTER-->
     <footer>
         <p>&copy; 2026 Boni.Built with ❤️for 💻programing.</p>
     </footer>
