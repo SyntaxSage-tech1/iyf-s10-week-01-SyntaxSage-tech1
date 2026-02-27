@@ -1,84 +1,10 @@
-<!DOCTYPE html>
+                                                                                                                                                                                                                                                              n <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <tittle>My Portifolio</tittle>
-    
-    <style>
-        body {
-            font-family: Georgia, 'Times New Roman', Times, serif;
-            margin: 0;
-            padding: 0;
-            text-align: center;
-        }
-        nav {
-            background-color: #ca1a1a;
-            color: rgb(201, 154, 0);
-            padding: 1rem;
-        }
-        nav h1 {
-            color: #ff8801;
-            margin: 0;
-            font-size: 1.5rem;
-        }
-        nav ul {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-        }
-        nav ul li {
-            display: -moz-box;
-            margin-right: 1rem;
-        }
-        nav ul li a {
-            color: rgb(78, 233, 116);
-            text-decoration:hsl(from color h s l);
-        }
-        skills {
-            background-color: #34069e;
-            color: rgb(68, 25, 102);
-            padding: 2rem;
-            text-align: border-box;
-            skill-1{
-                <h3>Web Development</h3>
-                text-align: left;
-                margin-bottom: 1rem;
-            }
-            skill-2{
-                <h3>css</h3>
-                text-align: right;
-                margin-bottom: 1rem;
-            }
-            skill-3{
-                <h3>JavaScript</h3>
-                text-align: left;
-                margin-bottom: 1rem;
-            }
-            skill-4{
-                <h3>Frameworks</h3>
-                text-align: right;
-                margin-bottom: 1rem;
-            }
-        }
-        section {
-            padding: 2rem;
-        }
-        button {
-            background-color: #f30a0a;
-            color: rgb(255, 139, 139);
-            border: none;
-            border-radius: 4px;
-            padding: 0.5rem 1rem;
-            cursor: pointer;
-        }
-        footer {
-            background-color: #06fa4f;
-            color: rgb(0, 6, 56);
-            text-align: center;
-            padding: 1rem;
-        }
-    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">    
+    <title>My Portifolio</title>
+    <link rel="stylesheet" href="style.css">
     
 </head>
 
@@ -94,12 +20,13 @@
             </ul>
         </div>
     </nav>
-<!--HERO/IMAGE* BIO SECTION-->
+
+    <!--HERO/IMAGE* BIO SECTION-->
     <section id="about">
         <div>
             <img
                 class="fit picture"
-                src="https://avatars.githubusercontent.com/u/122380441?v=4"
+                src="IMG-20260210-WA0004.jpg"
                 alt="Profile Photo of Boni"
                 >
         </div>
@@ -111,6 +38,7 @@
             </p>
         </div>
     </section>
+
     <!--SKILLS SECTION-->
     <section id="skills">
         <div>
@@ -144,7 +72,8 @@
             </div>
         </div>
     </section>
-  <!--CONTACT SECTION-->
+    
+    <!--CONTACT SECTION-->
     <section id="contact">
         <h2>Contact Me</h2>
         <form>
@@ -180,7 +109,8 @@
             </button>
         </form>
     </section>  
-<!--FOOTER-->
+
+    <!--FOOTER-->
     <footer>
         <p>&copy; 2026 Boni.Built with ❤️for 💻programing.</p>
     </footer>
