@@ -1,11 +1,11 @@
-                                                                       <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">    
-    <title>My Portifolio</title>
-    <link rel="stylesheet" href="style.css">
-    
+    <tittle>My Portifolio</tittle>
+    <link rel="stylesheet" href="style.css"> 
+  
 </head>
 
 <body>
@@ -20,7 +20,6 @@
             </ul>
         </div>
     </nav>
-
     <!--HERO/IMAGE* BIO SECTION-->
     <section id="about">
         <div>
@@ -38,7 +37,6 @@
             </p>
         </div>
     </section>
-
     <!--SKILLS SECTION-->
     <section id="skills">
         <div>
@@ -71,8 +69,7 @@
                 </div>
             </div>
         </div>
-    </section>
-    
+    </section>    
     <!--CONTACT SECTION-->
     <section id="contact">
         <h2>Contact Me</h2>
@@ -109,7 +106,6 @@
             </button>
         </form>
     </section>  
-
     <!--FOOTER-->
     <footer>
         <p>&copy; 2026 Boni.Built with ❤️for 💻programing.</p>
